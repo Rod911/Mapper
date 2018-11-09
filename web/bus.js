@@ -33,7 +33,7 @@ function list() {
 }
 
 async function init() {
-    readTextFile("/js/route list 2.json", findBus);
+    readTextFile("/js/routes.json", findBus);
     urlParams = new URLSearchParams(window.location.search);
     query = urlParams.get('bus').trim();
     if (!query) {
