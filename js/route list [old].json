@@ -1,0 +1,2203 @@
+{
+  "routes":[
+  {
+    "Route": "*1*",
+    "Stops": [
+      "State Bank",
+      "Car Street",
+      "Kudroli",
+      "Mannagudde",
+      "Lady Hill",
+      "Urva Stores",
+      "Kottara",
+      "Kuloor",
+      "Kavoor",
+      "Markada",
+      "Kunjathbail"
+    ]
+  },
+  {
+    "Route": "*1A*",
+    "Stops": [
+      "State Bank",
+      "Hampankatta",
+      "Lalbagh",
+      "Lady Hill",
+      "Kottara",
+      "Kuloor",
+      "Tannirbavi"
+    ]
+  },
+  {
+    "Route": "*1B*",
+    "Stops": [
+      "State Bank",
+      "Lalbagh",
+      "Lady Hill",
+      "Kodikal Cross",
+      "Kodikal School",
+      "Kodikal"
+    ]
+  },
+  {
+    "Route": "*1C*",
+    "Stops": [
+      "Mangaladevi",
+      "Lalbagh",
+      "Lady Hill",
+      "Kodikal Cross",
+      "Kodikalkatte",
+      "Kodikal"
+    ]
+  },
+  {
+    "Route": "*2*",
+    "Stops": [
+      "State Bank",
+      "Hampankatta",
+      "Shedigudde",
+      "Lady Hill",
+      "Panamboor",
+      "Kuloor",
+      "Suratkal",
+      "Katipalla"
+    ]
+  },
+  {
+    "Route": "*2A*",
+    "Stops": [
+      "State Bank",
+      "Hampankatta",
+      "Shedigudde",
+      "Lalbagh",
+      "Kottara",
+      "Kuloor",
+      "Panamboor",
+      "Chithrapura cross",
+      "Kulai",
+      "Suratkal",
+      "Mukka",
+      "Shashihithlu"
+    ]
+  },
+  {
+    "Route": "*2B*",
+    "Stops": [
+      "Bengre",
+      "Baikampady",
+      "Bajpe"
+    ]
+  },
+  {
+    "Route": "*2C*",
+    "Stops": [
+      "State Bank",
+      "Hampankatta",
+      "Shedigudde",
+      "Lady Hill",
+      "Panamboor",
+      "Bikampady",
+      "K B S",
+      "Jokatte"
+    ]
+  },
+  {
+    "Route": "*2D*",
+    "Stops": [
+      "Kaikamba",
+      "Maroli",
+      "Nanthoor",
+      "Polali"
+    ]
+  },
+  {
+    "Route": "*2E*",
+    "Stops": [
+      "Mangaldevi",
+      "Morgansgate",
+      "Jyoti",
+      "Lady Hill",
+      "Panamboor",
+      "Kudumboor",
+      "K B S",
+      "Jokatte"
+    ]
+  },
+  {
+    "Route": "*2E*",
+    "Stops": [
+      "Kankanadi",
+      "Jyoti",
+      "Lalbagh",
+      "Bajpe"
+    ]
+  },
+  {
+    "Route": "*2E*",
+    "Stops": [
+      "Kankanadi",
+      "Baikampady",
+      "Jokatte"
+    ]
+  },
+  {
+    "Route": "*2F*",
+    "Stops": [
+      "Bondel",
+      "Kavoor",
+      "Surathkal",
+      "NITK(KREC)",
+      "Sasihithlu"
+    ]
+  },
+  {
+    "Route": "*2G*",
+    "Stops": [
+      "Surathkal",
+      "Jokatte",
+      "Baikampady",
+      "Kodikere",
+      "Bajpe"
+    ]
+  },
+  {
+    "Route": "*3A*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Nantoor",
+      "Bikarnakatte",
+      "Kudpu Temple",
+      "Vamanjuru",
+      "Moodushedde"
+    ]
+  },
+  {
+    "Route": "*3B*",
+    "Stops": [
+      "State Bank",
+      "Falneer",
+      "Kankanadi",
+      "Nantoor",
+      "Kudpu Temple",
+      "Vamanjuru",
+      "Moodushedde",
+      "Shalepadavu"
+    ]
+  },
+  {
+    "Route": "*3B*",
+    "Stops": [
+      "State Bank",
+      "Falneer",
+      "Kankanadi",
+      "Nantoor",
+      "Kudpu Temple",
+      "Vamanjuru",
+      "Moodushedde"
+    ]
+  },
+  {
+    "Route": "*3C*",
+    "Stops": [
+      "Mangaladevi",
+      "Vamanjuru",
+      "Shalepadavu"
+    ]
+  },
+  {
+    "Route": "*3C*",
+    "Stops": [
+      "Mangaladevi",
+      "Vamanjuru",
+      "Moodushedde"
+    ]
+  },
+  {
+    "Route": "*3D*",
+    "Stops": [
+      "State Bank",
+      "Light House Hill",
+      "Jyoti",
+      "Nantoor",
+      "Kudpu Temple",
+      "Vamanjuru",
+      "Ulayibettu School",
+      "Permanki"
+    ]
+  },
+  {
+    "Route": "*3E*",
+    "Stops": [
+      "Pilikula",
+      "Bondel",
+      "Kavoor",
+      "Katipalla"
+    ]
+  },
+  {
+    "Route": "*3E*",
+    "Stops": [
+      "Moodushedde",
+      "Kuloor",
+      "Kavoor",
+      "Pachhanady",
+      "Kaikamba"
+    ]
+  },
+  {
+    "Route": "*3F*",
+    "Stops": [
+      "Kottara",
+      "Mallikatte",
+      "Kadri",
+      "Bejai",
+      "Kapikad",
+      "Kombel"
+    ]
+  },
+  {
+    "Route": "*3G*",
+    "Stops": [
+      "Kottara",
+      "KPT",
+      "Kuntikana",
+      "Ulaibettu"
+    ]
+  },
+  {
+    "Route": "*3H*",
+    "Stops": [
+      "Moodushedde",
+      "Vamanjuru",
+      "Kavoor",
+      "Surathkal",
+      "Chelyarpadavu"
+    ]
+  },
+  {
+    "Route": "*3K*",
+    "Stops": [
+      "Talapady",
+      "Thokkottu",
+      "Kankanadi",
+      "Vamanjuru",
+      "Moodushedde"
+    ]
+  },
+  {
+    "Route": "*3L*",
+    "Stops": [
+      "Kottara",
+      "Moodushedde"
+    ]
+  },
+  {
+    "Route": "*4*",
+    "Stops": [
+      "State Bank",
+      "Hampankatta",
+      "Milagres",
+      "Falneer",
+      "Highlands",
+      "Kankanadi",
+      "Bendoor",
+      "Bendoorwell",
+      "Kadri Shivabagh",
+      "Nantoor",
+      "Bikarnakatte",
+      "Kulshekar"
+    ]
+  },
+  {
+    "Route": "*4A*",
+    "Stops": [
+      "State Bank",
+      "Falneer",
+      "Nantoor",
+      "Paldane",
+      "Nirmarga",
+      "Ontemar",
+      "Adyar Padav",
+      "Merlapadav"
+    ]
+  },
+  {
+    "Route": "*4B*",
+    "Stops": [
+      "State Bank",
+      "Falneer",
+      "Bendoorwell",
+      "E S I",
+      "Shivabagh",
+      "Nantoor",
+      "Pedamale",
+      "Saripalla."
+    ]
+  },
+  {
+    "Route": "*4C*",
+    "Stops": [
+      "State Bank",
+      "Falneer",
+      "Kankanadi",
+      "Nantoor",
+      "Paldane",
+      "Nirmarga"
+    ]
+  },
+  {
+    "Route": "*4D*",
+    "Stops": [
+      "Mangaldevi",
+      "Morgansgate",
+      "Kankanadi",
+      "Nantoor",
+      "Kaikamba",
+      "Saripalla",
+      "Kannagudde"
+    ]
+  },
+  {
+    "Route": "*4E*",
+    "Stops": [
+      "Mangaldevi",
+      "Morgansgate",
+      "Kankanadi",
+      "Jyoti",
+      "Mallikatte",
+      "Nantoor",
+      "Chowki",
+      "Nirmarga",
+      "Kullikola",
+      "Adyar Padav",
+      "Merlapadav"
+    ]
+  },
+  {
+    "Route": "*5*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Kankanadi",
+      "Nandigudde",
+      "Morgansgate"
+    ]
+  },
+  {
+    "Route": "*6A*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Nantoor",
+      "Bikarnakatte",
+      "Canara Rubber",
+      "Shaktinagara"
+    ]
+  },
+  {
+    "Route": "*6B*",
+    "Stops": [
+      "State Bank",
+      "Kankanadi",
+      "Nantoor",
+      "Bikarnakatte",
+      "Muthappagudi",
+      "Shaktinagar"
+    ]
+  },
+  {
+    "Route": "*6C*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Nantoor",
+      "Bikarnakatte",
+      "Muthappagudi",
+      "Shaktinagara"
+    ]
+  },
+  {
+    "Route": "*6D*",
+    "Stops": [
+      "Mangaladevi",
+      "Nandigudde",
+      "Kankanadi",
+      "Nantoor",
+      "Muthappagudi",
+      "Shaktinagar"
+    ]
+  },
+  {
+    "Route": "*6F*",
+    "Stops": [
+      "Morgans Gate",
+      "Kankanadi",
+      "Nantoor",
+      "Preetinagar"
+    ]
+  },
+  {
+    "Route": "*7*",
+    "Stops": [
+      "State Bank",
+      "Car Street",
+      "Kudroli",
+      "Lady Hill",
+      "Chilimbi",
+      "Urva Stores"
+    ]
+  },
+  {
+    "Route": "*9*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Kankanadi",
+      "Pumpwell",
+      "Padeel",
+      "Karmar",
+      "Bajal",
+      "Bajal Church"
+    ]
+  },
+  {
+    "Route": "*9A*",
+    "Stops": [
+      "State Bank",
+      "Pandeshwara",
+      "Yemmekere",
+      "Mangaldevi",
+      "Morgansgate",
+      "Jappinamogaru",
+      "Kudthadka",
+      "Bajal",
+      "Bajal Church",
+      "J M Road"
+    ]
+  },
+  {
+    "Route": "*9A*",
+    "Stops": [
+      "Clock Tower Circle",
+      "Mangaladevi",
+      "Jeppu",
+      "Bajal Church"
+    ]
+  },
+  {
+    "Route": "*9B*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Pumpwell",
+      "Jappinamogaru",
+      "Pakkaladka",
+      "J M Road"
+    ]
+  },
+  {
+    "Route": "*9C*",
+    "Stops": [
+      "J M Road",
+      "Jappinamogaru",
+      "Lady Hill",
+      "Kavoor",
+      "Kunjathbail"
+    ]
+  },
+  {
+    "Route": "*10A*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Pumpwell",
+      "Padeel",
+      "Kannur",
+      "Adyar"
+    ]
+  },
+  {
+    "Route": "*10B*",
+    "Stops": [
+      "Kankanadi",
+      "Capitanio School",
+      "Kannur",
+      "Valachil"
+    ]
+  },
+  {
+    "Route": "*11A*",
+    "Stops": [
+      "State Bank",
+      "Falneer",
+      "Kankanadi",
+      "Pumpwell",
+      "Padeel",
+      "Kannur",
+      "Kannurbettu"
+    ]
+  },
+  {
+    "Route": "*11B*",
+    "Stops": [
+      "State Bank",
+      "Falneer",
+      "Kankanadi",
+      "Pumpwell",
+      "Padeel",
+      "Bajal Cross",
+      "Jalligudde"
+    ]
+  },
+  {
+    "Route": "*11C*",
+    "Stops": [
+      "Mangaladevi",
+      "Morgansgate",
+      "Nandigudde",
+      "Kankanadi",
+      "Padeel",
+      "Bajal Cross",
+      "Jalligudde"
+    ]
+  },
+  {
+    "Route": "*11D*",
+    "Stops": [
+      "Kottara",
+      "Bejai",
+      "KSRTC",
+      "Pallakere"
+    ]
+  },
+  {
+    "Route": "*12A*",
+    "Stops": [
+      "State Bank",
+      "Bunts Hostel",
+      "Nantoor",
+      "Kudpu Temple",
+      "Vamanjuru",
+      "Addooru",
+      "Polali",
+      "Pallipady"
+    ]
+  },
+  {
+    "Route": "*12B*",
+    "Stops": [
+      "State Bank",
+      "Bunts Hostel",
+      "Nantoor",
+      "Kudpu Temple",
+      "Vamanjuru",
+      "Badakabail",
+      "Ammunje",
+      "Mangaji"
+    ]
+  },
+  {
+    "Route": "*13*",
+    "Stops": [
+      "State Bank",
+      "Car Street",
+      "Kudroli",
+      "Mannagudde",
+      "Lady Hill",
+      "Chilimbi",
+      "Urva Stores"
+    ]
+  },
+  {
+    "Route": "*13A*",
+    "Stops": [
+      "State Bank",
+      "Car Street",
+      "Chitra talkies",
+      "Kudroli",
+      "Mannagudde",
+      "Chilimbi",
+      "Urva Stores",
+      "Kottara"
+    ]
+  },
+  {
+    "Route": "*13A*",
+    "Stops": [
+      "Kunjathbail",
+      "Kavoor",
+      "Kuloor",
+      "Chelyarpadavu"
+    ]
+  },
+  {
+    "Route": "*13A*",
+    "Stops": [
+      "Kunjathbail",
+      "Kavoor",
+      "Kuloor",
+      "Surathkal",
+      "Katipalla"
+    ]
+  },
+  {
+    "Route": "*13A*",
+    "Stops": [
+      "Devinagar",
+      "Kavoor",
+      "Kuloor",
+      "Chelyarpadavu"
+    ]
+  },
+  {
+    "Route": "*13B*",
+    "Stops": [
+      "State Bank",
+      "Shedigudde",
+      "Lady Hill",
+      "Kuloor",
+      "Panjimogaru",
+      "Kavoor",
+      "Markada",
+      "Kunjathbail"
+    ]
+  },
+  {
+    "Route": "*13C*",
+    "Stops": [
+      "State Bank",
+      "Shedigudde",
+      "Lady Hill",
+      "Kuloor",
+      "Kavoor",
+      "Bondel",
+      "Pachhanady",
+      "Beggars Colony"
+    ]
+  },
+  {
+    "Route": "*13D*",
+    "Stops": [
+      "State Bank",
+      "Shedigudde",
+      "Lady Hill",
+      "Kuloor",
+      "Kavoor",
+      "Bondel"
+    ]
+  },
+  {
+    "Route": "*13E*",
+    "Stops": [
+      "Kunjathbail",
+      "Kuloor",
+      "Kavoor",
+      "Baikampady",
+      "Surathkal"
+    ]
+  },
+  {
+    "Route": "*13F*",
+    "Stops": [
+      "Mangaldevi",
+      "Kankanadi",
+      "Jyoti",
+      "Kuloor",
+      "Kunjathbail"
+    ]
+  },
+  {
+    "Route": "*13G*",
+    "Stops": [
+      "Mangaldevi",
+      "Kankanadi",
+      "KPT",
+      "Lalbagh",
+      "Kunjathbail"
+    ]
+  },
+  {
+    "Route": "*13G*",
+    "Stops": [
+      "Kunjathbail",
+      "Kavoor",
+      "Kuloor",
+      "Chelyarpadavu"
+    ]
+  },
+  {
+    "Route": "*13G*",
+    "Stops": [
+      "Kunjathbail",
+      "Baikampady",
+      "Kodikere",
+      "Surathkal"
+    ]
+  },
+  {
+    "Route": "*13H*",
+    "Stops": [
+      "Mangaldevi",
+      "Nandigudde",
+      "Valencia",
+      "Nantoor",
+      "KPT",
+      "Bejai Church",
+      "Lalbagh",
+      "Lady Hill",
+      "Kodikal Cross",
+      "Kuloor",
+      "Kavoor",
+      "Bondel"
+    ]
+  },
+  {
+    "Route": "*13J*",
+    "Stops": [
+      "Mangaldevi",
+      "Devinagar"
+    ]
+  },
+  {
+    "Route": "*13J*",
+    "Stops": [
+      "Kunjathbail",
+      "Kavoor",
+      "Kuloor",
+      "Baikampady",
+      "Surathkal",
+      "Katipalla"
+    ]
+  },
+  {
+    "Route": "*13K*",
+    "Stops": [
+      "Kunjathbail",
+      "Kavoor",
+      "Kuloor",
+      "Baikampady",
+      "Surathkal",
+      "Khadgeshwari"
+    ]
+  },
+  {
+    "Route": "*13L*",
+    "Stops": [
+      "Devinagar",
+      "Kulshekar Kaikamba"
+    ]
+  },
+  {
+    "Route": "*14*",
+    "Stops": [
+      "State Bank",
+      "Falneer",
+      "Kankanadi",
+      "Bendoor",
+      "KPT",
+      "Padavinangadi",
+      "Bondel"
+    ]
+  },
+  {
+    "Route": "*14A*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Nantoor",
+      "Padavinangadi",
+      "Bondel"
+    ]
+  },
+  {
+    "Route": "*14B*",
+    "Stops": [
+      "Kankanadi",
+      "Nantoor",
+      "Pachhanady"
+    ]
+  },
+  {
+    "Route": "*14C*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Nantoor",
+      "Padavinangadi",
+      "Bondel"
+    ]
+  },
+  {
+    "Route": "*14D*",
+    "Stops": [
+      "Jeppu Market",
+      "Kankanadi",
+      "Nantoor",
+      "Bondel"
+    ]
+  },
+  {
+    "Route": "*14E*",
+    "Stops": [
+      "Pumpwell",
+      "KPT",
+      "Pachhanady",
+      "Vamanjuru"
+    ]
+  },
+  {
+    "Route": "*14F*",
+    "Stops": [
+      "Kunjathbail",
+      "Nantoor",
+      "Tharaithota"
+    ]
+  },
+  {
+    "Route": "*15*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Kankanadi",
+      "Nantoor",
+      "Bejai",
+      "KSRTC",
+      "Lalbagh",
+      "Lady Hill",
+      "Kottara",
+      "Kuloor",
+      "Panamboor",
+      "Kulai",
+      "Suratkal"
+    ]
+  },
+  {
+    "Route": "*15A*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Kankanadi",
+      "Nantoor",
+      "Lalbagh",
+      "Lady Hill",
+      "Suratkal",
+      "Kaatipalla",
+      "Soorinje"
+    ]
+  },
+  {
+    "Route": "*15A*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Kankanadi",
+      "Nantoor",
+      "Lady Hill",
+      "Suratkal",
+      "Kaatipalla"
+    ]
+  },
+  {
+    "Route": "*15A*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Kankanadi",
+      "Nantoor",
+      "Lady Hill",
+      "Kuloor",
+      "Panambur",
+      "Baikampady",
+      "Suratkal",
+      "Kaatipalla"
+    ]
+  },
+  {
+    "Route": "*15A*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Kankanadi",
+      "Nantoor",
+      "Lady Hill",
+      "Kuloor",
+      "Panambur",
+      "Baikampady",
+      "Suratkal",
+      "Madyapadavu"
+    ]
+  },
+  {
+    "Route": "*15A*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Kankanadi",
+      "Nantoor",
+      "Kulshekar Kaikamba"
+    ]
+  },
+  {
+    "Route": "*15A*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Kankanadi",
+      "Nantoor",
+      "Lady Hill",
+      "Suratkal",
+      "Kaatipalla",
+      "Soorinje",
+      "Mangalapete"
+    ]
+  },
+  {
+    "Route": "*15A*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Kankanadi",
+      "Nantoor",
+      "Bondel",
+      "Chelyarpadavu"
+    ]
+  },
+  {
+    "Route": "*15B*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Kankanadi",
+      "Nantoor",
+      "Bejai",
+      "KSRTC",
+      "Lalbagh",
+      "Lady Hill",
+      "Kuloor",
+      "SuratkaI",
+      "Krishnapura"
+    ]
+  },
+  {
+    "Route": "*15B*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Kankanadi",
+      "Nantoor",
+      "Bejai",
+      "KSRTC",
+      "Lalbagh",
+      "Lady Hill",
+      "SuratkaI",
+      "Krishnapura",
+      "MRPL"
+    ]
+  },
+  {
+    "Route": "*15C*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Kankanadi",
+      "Nantoor",
+      "Bejai",
+      "KSRTC",
+      "Lalbagh",
+      "Lady Hill",
+      "Kuloor",
+      "SuratkaI",
+      "Krishnapura"
+    ]
+  },
+  {
+    "Route": "*15C*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Nantoor",
+      "Bejai",
+      "KSRTC",
+      "Lalbagh",
+      "Lady Hill",
+      "Kottara",
+      "Kuloor",
+      "Suratkal",
+      "Kaatipalla",
+      "MRPL",
+      "Kaithakumer"
+    ]
+  },
+  {
+    "Route": "*15D*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Kankanadi",
+      "Nantoor",
+      "Bejai",
+      "KSRTC",
+      "Lalbagh",
+      "Lady Hill",
+      "Kuloor",
+      "Suratkal",
+      "MRPL",
+      "Kuthethoor"
+    ]
+  },
+  {
+    "Route": "*15E*",
+    "Stops": [
+      "Mangaldevi",
+      "Kankanadi",
+      "Valencia",
+      "Nantoor",
+      "Lady Hill",
+      "Lalbagh",
+      "Kuloor",
+      "Ganeshpura"
+    ]
+  },
+  {
+    "Route": "*15F*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Kankanadi",
+      "Nantoor",
+      "Lalbagh",
+      "Lady Hill",
+      "Kuloor",
+      "Suratkal",
+      "Kaatipalla",
+      "MRPL",
+      "Kaithakumer"
+    ]
+  },
+  {
+    "Route": "*15G*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Kankanadi",
+      "Jyoti",
+      "PVS",
+      "Lady Hill",
+      "Suratkal",
+      "Kana",
+      "Janatha Colony"
+    ]
+  },
+  {
+    "Route": "*15H*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Nantoor",
+      "KPT",
+      "Bejai",
+      "KSRTC",
+      "Lalbagh",
+      "Lady Hill",
+      "Suratkal",
+      "Kana",
+      "Kaatipalla",
+      "Narayanaguru ITI",
+      "Madhyapadav"
+    ]
+  },
+  {
+    "Route": "*15I*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Kankanadi",
+      "Nantoor",
+      "KSRTC",
+      "Lady Hill",
+      "SuratkaI",
+      "Krishnapura",
+      "Kaikamba"
+    ]
+  },
+  {
+    "Route": "*15J*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Kankanadi",
+      "Nantoor",
+      "Bejai",
+      "KSRTC",
+      "Lalbagh",
+      "Lady Hill",
+      "Urwa Stores",
+      "Ashoknagar"
+    ]
+  },
+  {
+    "Route": "*15J*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Kankanadi",
+      "Nantoor",
+      "Bejai",
+      "KSRTC",
+      "Lalbagh",
+      "Lady Hill",
+      "Urwa Stores",
+      "Ashoknagar",
+      "Dambel"
+    ]
+  },
+  {
+    "Route": "*15K*",
+    "Stops": [
+      "Mangaldevi",
+      "Valencia",
+      "Nantoor",
+      "Lady Hill",
+      "Shediguri",
+      "Dambel"
+    ]
+  },
+  {
+    "Route": "*15L*",
+    "Stops": [
+      "Mallikatta",
+      "Nantoor",
+      "Lady Hill",
+      "Suratkal",
+      "Kana",
+      "Katipalla"
+    ]
+  },
+  {
+    "Route": "*15N*",
+    "Stops": [
+      "Mangaldevi",
+      "Morgansgate",
+      "Nantoor",
+      "Lady Hill",
+      "Suratkal",
+      "Madyapadav",
+      "Chelyarpadavu",
+      "Khandige"
+    ]
+  },
+  {
+    "Route": "*15P*",
+    "Stops": [
+      "Mangaldevi",
+      "Bendoor",
+      "Nantoor",
+      "Baikampady",
+      "Mungaru"
+    ]
+  },
+  {
+    "Route": "*16,16A*",
+    "Stops": [
+      "State Bank",
+      "Kudroli",
+      "Churchgate",
+      "Boloor",
+      "Sulthan Batheri"
+    ]
+  },
+  {
+    "Route": "*16B*",
+    "Stops": [
+      "Nehru Circle",
+      "Jyoti",
+      "P.V.S.",
+      "Lalbagh",
+      "Lady Hill",
+      "Urwa Market",
+      "Vishranthi Church Bokkapatna"
+    ]
+  },
+  {
+    "Route": "*16C*",
+    "Stops": [
+      "Sulthan Batheri",
+      "Urwa market",
+      "Lady Hill",
+      "Lalbagh",
+      "Bejai",
+      "KPT",
+      "Nantoor",
+      "Pumpwell"
+    ]
+  },
+  {
+    "Route": [
+      "*17A",
+      "17B*"
+    ],
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "Lalbagh",
+      "KSRTC",
+      "Muliyakad",
+      "Kavoor",
+      "Markada",
+      "Kunjathbail"
+    ]
+  },
+  {
+    "Route": "*18*",
+    "Stops": [
+      "State Bank",
+      "RTO",
+      "Hoige Bazar",
+      "Marigudi",
+      "Mangaldevi cross",
+      "Jeppu Market",
+      "Morgansgate"
+    ]
+  },
+  {
+    "Route": "*19*",
+    "Stops": [
+      "State Bank",
+      "Light House Hill",
+      "Jyoti",
+      "Bunts Hostel",
+      "PVS",
+      "Lalbagh",
+      "Bejai Church",
+      "Yeyyadi",
+      "MaryhiII",
+      "Pachhanady",
+      "Bondel"
+    ]
+  },
+  {
+    "Route": "*19*",
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "Lalbagh",
+      "KPT",
+      "Maryhill",
+      "Bondel",
+      "Pachhanady",
+      "Beggars Colony"
+    ]
+  },
+  {
+    "Route": "*19A*",
+    "Stops": [
+      "Kankanadi",
+      "Jyoti",
+      "PVS",
+      "KSRTC",
+      "Mary Hill",
+      "Bondel"
+    ]
+  },
+  {
+    "Route": "*21*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Bunts Hostel",
+      "Nantoor",
+      "Baithurly",
+      "Nirmarga"
+    ]
+  },
+  {
+    "Route": "*21A*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Bunts Hostel",
+      "Nantoor",
+      "Nirmarga",
+      "Merlapadavu",
+      "Arkula Padav"
+    ]
+  },
+  {
+    "Route": "*22*",
+    "Stops": [
+      "State Bank",
+      "Bunts Hostel",
+      "Nantoor",
+      "Kudpu Temple",
+      "Vamanjuru",
+      "Sunkadakatte",
+      "Bajpe"
+    ]
+  },
+  {
+    "Route": "*22A*",
+    "Stops": [
+      "State Bank",
+      "Bunts Hostel",
+      "Nantoor",
+      "Kudpu Temple",
+      "Vamanjuru",
+      "Gurupura",
+      "Kinnikambla",
+      "Kolambe",
+      "Bajpe",
+      "Adyapady"
+    ]
+  },
+  {
+    "Route": [
+      "*23",
+      "23B*"
+    ],
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "pumpwell",
+      "Alape",
+      "Veeranagara",
+      "Faizalnagar"
+    ]
+  },
+  {
+    "Route": "*23C*",
+    "Stops": [
+      "State Bank",
+      "Falneer",
+      "Capitanio School",
+      "Veeranagara",
+      "Faizalnagar"
+    ]
+  },
+  {
+    "Route": "*27*",
+    "Stops": [
+      "State Bank",
+      "Attavara",
+      "Nandigudde",
+      "Mangaldevi"
+    ]
+  },
+  {
+    "Route": "*27A*",
+    "Stops": [
+      "State Bank",
+      "Attavara",
+      "Mangaldevi",
+      "Mulihithlu"
+    ]
+  },
+  {
+    "Route": "*29*",
+    "Stops": [
+      "State Bank",
+      "RTO",
+      "Pandeshwara",
+      "Yemmekere",
+      "Mangaldevi",
+      "Morgansgate"
+    ]
+  },
+  {
+    "Route": "*29A*",
+    "Stops": [
+      "State Bank",
+      "RTO",
+      "Pandeshwara",
+      "Yemmekere",
+      "Mangaldevi Temple",
+      "Morgansgate"
+    ]
+  },
+  {
+    "Route": "*30*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Nantoor",
+      "Kaikamba",
+      "Maroli",
+      "Padeel"
+    ]
+  },
+  {
+    "Route": "*30B*",
+    "Stops": [
+      "State Bank",
+      "Syndicate",
+      "Jyoti",
+      "Bendoor",
+      "Nantoor",
+      "Padeel",
+      "Kannur",
+      "Adyar"
+    ]
+  },
+  {
+    "Route": "*31*",
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "Mannagudde",
+      "Gokarnanatha College",
+      "Hoigebail",
+      "Ashoknagar",
+      "Shediguri"
+    ]
+  },
+  {
+    "Route": "*31A*",
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "Lalbagh",
+      "Urva Market",
+      "Marigudi",
+      "Ashoknagar",
+      "Shediguri"
+    ]
+  },
+  {
+    "Route": "*31 B*",
+    "Stops": [
+      "State Bank",
+      "Car Street",
+      "Mannagudde",
+      "Lady Hill",
+      "Marigudi temple",
+      "Ashoknagar",
+      "Shediguri",
+      "Dambel"
+    ]
+  },
+  {
+    "Route": "*31C*",
+    "Stops": [
+      "Dambel",
+      "Shediguri",
+      "Ashoknagar",
+      "Mannagudde",
+      "Jyoti",
+      "Kankanadi",
+      "Nandigudde",
+      "Mangaldevi",
+      "Pandeshwar",
+      "Nehru Circle"
+    ]
+  },
+  {
+    "Route": "*33*",
+    "Stops": [
+      "State Bank",
+      "Shedigudde",
+      "Lalbagh",
+      "KSRTC",
+      "Kuntikana",
+      "Nandanapura",
+      "Akashabhavan",
+      "Anandanagar"
+    ]
+  },
+  {
+    "Route": "*37*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Nantoor",
+      "Maroli",
+      "Padeel"
+    ]
+  },
+  {
+    "Route": "*41A*",
+    "Stops": [
+      "State Bank",
+      "Shedigudde",
+      "Lalbagh",
+      "Lady Hill",
+      "Suratkal",
+      "Munchur",
+      "Madhya padav",
+      "Chelyarpadavu",
+      "MRPL Colony"
+    ]
+  },
+  {
+    "Route": "*42*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Kankanadi",
+      "pumpwell",
+      "Thokkottu",
+      "Kolya",
+      "Adka",
+      "Kotekar",
+      "Talapady"
+    ]
+  },
+  {
+    "Route": "*43B*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "pumpwell",
+      "Thokkottu",
+      "K C Road",
+      "Talapady",
+      "Olavinahalli",
+      "Kinya"
+    ]
+  },
+  {
+    "Route": "*44*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "pumpwell",
+      "Thokkottu",
+      "Kumpala",
+      "Amrithnagar"
+    ]
+  },
+  {
+    "Route": "*44A*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "pumpwell",
+      "Thokkottu",
+      "Ullal",
+      "Chota Mangalore",
+      "Someshwar"
+    ]
+  },
+  {
+    "Route": "*44B*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Pumpwell",
+      "Thokkottu",
+      "Kuthar Padav",
+      "Ranipura",
+      "Madaka",
+      "Elyarpadav"
+    ]
+  },
+  {
+    "Route": "*44C*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "pumpwell",
+      "Thokkottu",
+      "Kotepura",
+      "Ullal",
+      "Ullal Jetty"
+    ]
+  },
+  {
+    "Route": "*44D*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "pumpwell",
+      "Thokkotu",
+      "Kotepura",
+      "Ullal Jetty"
+    ]
+  },
+  {
+    "Route": "*44E*",
+    "Stops": [
+      "Amrithnagar",
+      "Moorukatte",
+      "Kumpala",
+      "Thokkottu",
+      "Jeppu Market",
+      "Mulihithlu",
+      "Lewell",
+      "Yemmekere",
+      "Nehru Circle"
+    ]
+  },
+  {
+    "Route": "*44G*",
+    "Stops": [
+      "Kankanadi",
+      "Pumpwell",
+      "Thokkottu",
+      "Kuthar Padav",
+      "Deralakatte",
+      "Mallar",
+      "Madaka"
+    ]
+  },
+  {
+    "Route": "*44I*",
+    "Stops": [
+      "Amrithnagar",
+      "Moorukatte",
+      "Kumpala",
+      "Thokkottu",
+      "Pumpwell",
+      "Jyoti",
+      "Bunts Hostel",
+      "Kadri",
+      "Temple",
+      "Lady Hill",
+      "Suratkal"
+    ]
+  },
+  {
+    "Route": "*44J*",
+    "Stops": [
+      "Nehru Circle",
+      "Yemmekere",
+      "Mangaldevi",
+      "Thokkottu",
+      "Ullal",
+      "Someshwar"
+    ]
+  },
+  {
+    "Route": "*44K*",
+    "Stops": [
+      "Someshwar",
+      "Ombathukere",
+      "Thokkottu",
+      "Kuthar Padav",
+      "Deralakatte",
+      "Assaigoli",
+      "Konaje"
+    ]
+  },
+  {
+    "Route": "*44M*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Pumpwell",
+      "Deralakatte",
+      "Ranipura",
+      "Elyarpadav"
+    ]
+  },
+  {
+    "Route": "*44N*",
+    "Stops": [
+      "Kankanadi",
+      "Pumpwell",
+      "Thokottu",
+      "Elyarpadav",
+      "Gramachavadi",
+      "Malar School",
+      "Inoli"
+    ]
+  },
+  {
+    "Route": "*44P*",
+    "Stops": [
+      "Someshwara",
+      "Ullal",
+      "Thokottu",
+      "Gramachavadi",
+      "Inoli",
+      "Harekala",
+      "Pavoor"
+    ]
+  },
+  {
+    "Route": "*45*",
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "Lady Hill",
+      "Suratkal",
+      "Bala",
+      "Kaatipalla"
+    ]
+  },
+  {
+    "Route": "*45A*",
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "Lady Hill",
+      "Suratkal",
+      "Kaatipalla",
+      "Krishnapura"
+    ]
+  },
+  {
+    "Route": "*45B*",
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "Lady Hill",
+      "Suratkal",
+      "Kana",
+      "Kaatipalla",
+      "Krishnapura"
+    ]
+  },
+  {
+    "Route": "*45C*",
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "Lalbagh",
+      "Suratkal",
+      "Kaatipalla",
+      "Mangalapete"
+    ]
+  },
+  {
+    "Route": "*45D*",
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "Lady Hill",
+      "Suratkal",
+      "Kaatipalla",
+      "Moodapadav",
+      "Kuthethoor"
+    ]
+  },
+  {
+    "Route": "*45E*",
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "Lady Hill",
+      "Kaatipalla",
+      "Indiranagar"
+    ]
+  },
+  {
+    "Route": "*45F*",
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "Lady Hill",
+      "Suratkal",
+      "Kaatipalla",
+      "Mangalapete",
+      "Kaithakumer"
+    ]
+  },
+  {
+    "Route": "*45G*",
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "Lady Hill",
+      "Suratkal",
+      "Kana",
+      "Janatha Colony"
+    ]
+  },
+  {
+    "Route": "*45H*",
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "Lady Hill",
+      "Suratkal",
+      "Kaatipalla",
+      "Madyapadav"
+    ]
+  },
+  {
+    "Route": "*47*",
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "KSRTC",
+      "Kuntikana",
+      "Kavoor",
+      "Maravoor",
+      "Porkodi",
+      "Bajpe"
+    ]
+  },
+  {
+    "Route": "*47A*",
+    "Stops": [
+      "State Bank",
+      "P.V.S.",
+      "Kuntikana",
+      "Kavoor",
+      "Markada",
+      "Porkodi",
+      "Bajpe"
+    ]
+  },
+  {
+    "Route": "*47B*",
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "Lady Hill",
+      "Kuloor",
+      "Kavoor",
+      "Markada",
+      "Bajpe Airport",
+      "Adyapady"
+    ]
+  },
+  {
+    "Route": "*47C*",
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "KSRTC",
+      "Kuntikana",
+      "Kavoor",
+      "Batrakere",
+      "Kathalsar"
+    ]
+  },
+  {
+    "Route": "*47D*",
+    "Stops": [
+      "Bajpe",
+      "Kavoor",
+      "Batrakere",
+      "Adyapady",
+      "Markada",
+      "Kavoor",
+      "Kuntikana",
+      "KSRTC",
+      "Nantoor",
+      "Kankanadi"
+    ]
+  },
+  {
+    "Route": "*47F*",
+    "Stops": [
+      "Mangaldevi",
+      "Nandigudde",
+      "Valencia",
+      "Jyoti",
+      "PVS",
+      "Lady Hill",
+      "Kavoor",
+      "Markada",
+      "Kenjaru",
+      "Porkodi",
+      "Bajpe"
+    ]
+  },
+  {
+    "Route": "*51*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Kankanadi",
+      "Pumpwell",
+      "Thokkottu",
+      "Natekal",
+      "Konaje"
+    ]
+  },
+  {
+    "Route": "*51A*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "kankanadi",
+      "Pumpwell",
+      "Thokkottu",
+      "Konaje",
+      "Pavoor",
+      "Inoli"
+    ]
+  },
+  {
+    "Route": "*51B*",
+    "Stops": [
+      "Kottara",
+      "Urva Stores",
+      "Lady Hill",
+      "PVS",
+      "Jyoti",
+      "Kankanadi",
+      "Pumpwell",
+      "Thokkotu",
+      "Kotekar",
+      "Madoor",
+      "Deralakatte",
+      "Konaje"
+    ]
+  },
+  {
+    "Route": "*51C*",
+    "Stops": [
+      "Konaje",
+      "Thokkottu",
+      "Kuloor",
+      "MRPL"
+    ]
+  },
+  {
+    "Route": "*51D*",
+    "Stops": [
+      "Kottara",
+      "Kankanadi",
+      "Thokkottu",
+      "Inoli"
+    ]
+  },
+  {
+    "Route": "*51E*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Kankanadi",
+      "Pumpwell",
+      "Thokkottu",
+      "Konaje",
+      "Mudipu",
+      "Hoohakuvakallu"
+    ]
+  },
+  {
+    "Route": "*51G*",
+    "Stops": [
+      "Baikampady",
+      "Panamboor",
+      "Lalbagh",
+      "Nantoor",
+      "Thokkottu",
+      "Konaje",
+      "Inoli",
+      "Dharmanagar"
+    ]
+  },
+  {
+    "Route": "*51K*",
+    "Stops": [
+      "Kinya",
+      "Gorigudda",
+      "Thokkottu",
+      "Kankanadi"
+    ]
+  },
+  {
+    "Route": "*51T*",
+    "Stops": [
+      "Talapady",
+      "Deralakatte",
+      "Kuthar Padav",
+      "Thokkottu"
+    ]
+  },
+  {
+    "Route": "*53*",
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "Lady Hill",
+      "Suratkal",
+      "Kaatipalla",
+      "Soorinje"
+    ]
+  },
+  {
+    "Route": "*53A*",
+    "Stops": [
+      "Kankanadi",
+      "Nantoor",
+      "Kuntikana",
+      "Suratkal",
+      "Kaatipalla",
+      "Soorinje"
+    ]
+  },
+  {
+    "Route": "*53B*",
+    "Stops": [
+      "C.F. Colony",
+      "Kuloor",
+      "Suratkal",
+      "Katipalla",
+      "Shibaroor"
+    ]
+  },
+  {
+    "Route": "*53C*",
+    "Stops": [
+      "Mangaldevi",
+      "Nandigudde",
+      "Kankanadi",
+      "Nantoor",
+      "Lady Hill",
+      "Suratkal",
+      "Bala",
+      "Soorinje",
+      "Delanthabettu"
+    ]
+  },
+  {
+    "Route": "*53D*",
+    "Stops": [
+      "Porkodi",
+      "Suratkal",
+      "Katipalla",
+      "Shibaroor"
+    ]
+  },
+  {
+    "Route": "*54*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Kankanadi",
+      "Pumpwell",
+      "Thokkottu",
+      "Kotekar",
+      "Talapady",
+      "Mangalanthi",
+      "Thoudugoli"
+    ]
+  },
+  {
+    "Route": "*54A*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Pumpwell",
+      "Thokkottu",
+      "Manjanady",
+      "Hoohakuvakallu"
+    ]
+  },
+  {
+    "Route": "*54B*",
+    "Stops": [
+      "State Bank",
+      "RTO",
+      "Pandeshawara",
+      "Mulihitthlu",
+      "Morgansgate",
+      "Jappinamogaru",
+      "Thokkottu",
+      "Manjanady",
+      "Narya",
+      "Hoohakuvakallu"
+    ]
+  },
+  {
+    "Route": "*55*",
+    "Stops": [
+      "State Bank",
+      "Jyoti",
+      "Pumpwell",
+      "Thokkotu",
+      "Konaje",
+      "Bavate Guri",
+      "Pavoor-Harekala"
+    ]
+  },
+  {
+    "Route": "*59*",
+    "Stops": [
+      "State Bank",
+      "PVS",
+      "Lady Hill",
+      "Baikampady",
+      "Chitrapur Temple",
+      "Hosabettu",
+      "Suratkal"
+    ]
+  },
+  {
+    "Route": "*60*",
+    "Stops": [
+      "Anandanagar",
+      "Nandanapura",
+      "Malemar",
+      "Lady Hill",
+      "Bejai Museum",
+      "Kadri Temple",
+      "Kankanadi",
+      "Valencia",
+      "Gorigudda"
+    ]
+  },
+  {
+    "Route": "*60B*",
+    "Stops": [
+      "Lady Hill",
+      "Kottara",
+      "Akashabhavan"
+    ]
+  },
+  {
+    "Route": "*61*",
+    "Stops": [
+      "Kodikal",
+      "Kodikal Cross",
+      "Lady Hill",
+      "Bejai Museum",
+      "Kadri Temple",
+      "pumpwell",
+      "Padeel",
+      "Kankanadi"
+    ]
+  },
+  {
+    "Route": "*61*",
+    "Stops": [
+      "Padeel",
+      "Kankanadi",
+      "Lady Hill",
+      "Kodikal"
+    ]
+  },
+  {
+    "Route": "*62A*",
+    "Stops": [
+      "Padeel Railway Station",
+      "KPT",
+      "Bondel",
+      "Kavoor",
+      "Kuloor",
+      "Kaikamba",
+      "Kaatipalla"
+    ]
+  },
+  {
+    "Route": "*65*",
+    "Stops": [
+      "Kankanadi Railway Station",
+      "Kuntikana",
+      "Surathkal",
+      "Kaikamba"
+    ]
+  },
+  {
+    "Route": "*65E*",
+    "Stops": [
+      "Kankanadi",
+      "Kottara",
+      "Ganeshpura"
+    ]
+  },
+  {
+    "Route": "*65G*",
+    "Stops": [
+      "Kankanadi",
+      "Nantoor",
+      "Janatha Colony"
+    ]
+  }
+]
+}
