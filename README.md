@@ -1,4 +1,2 @@
-# Mapper
+# Mapper (Moved to firebase: https://github.com/Rod911/mapper-firebase)
 ### Mangalore City travel
-
-https://rod911.github.io/Mapper/
